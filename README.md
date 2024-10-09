@@ -1,10 +1,10 @@
-# Sass Boilerplate
+# Sass boilerplate
 <p align="center"><img src="https://raw.githubusercontent.com/antonboutkam/sass-boilerplate/refs/heads/main/public_html/img/logo-rocva.png"  alt="Logo ROC"/></p>
 
-Boilerplate code voor ROC software development studenten voor de mini cursus in LESS &amp; SASS
-
+Boilerplate code for students software development at ROC Amstelland for the mini course in [LESS](https://lesscss.org/) &amp; [SASS](https://sass-lang.com/guide/)
 
 # Default home page
+
 
 
 ## Summary
