@@ -1,15 +1,20 @@
-# Sass boilerplate
+# SASS boilerplate
 <p align="center"><img src="https://raw.githubusercontent.com/antonboutkam/sass-boilerplate/refs/heads/main/public_html/img/logo-rocva.png"  alt="Logo ROC"/></p>
 
-Boilerplate code for students software development at ROC Amstelland for the mini course in [LESS](https://lesscss.org/) &amp; [SASS](https://sass-lang.com/guide/)
-
-# Default home page
-
-
+Boilerplate code for students software development at ROC Amstelland for the mini course in 
+[LESS](https://lesscss.org/) and [SASS](https://sass-lang.com/guide/)
 
 ## Summary
-This is a plugin written for the Novum Innovation app. It contains the default home page and is displayed whenever a user
-calls a non existent subdomain of *.innovatieapp.nl
+This repository contains all the essential files required for completing the assignments in the LESS and SASS course. 
+The provided code serves as a foundation for students to practice and explore the concepts covered in class. You are 
+encouraged to experiment with the SCSS files and compile them to CSS to better understand the styling workflow. Make 
+sure to follow the course guidelines and refer to the documentation to get started with these resources effectively.
+
+## Contents
+
 
 ## More info
-Please refer to the [documentation](https://docs.demo.novum.nu) if you need more information or are interested in doing a custom installation.
+These files are part of [mini cursus LESS & SASS](https://talnet.instructure.com/), for more information please 
+refer to the course or your instructor.
+
+
