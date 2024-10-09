@@ -1,10 +1,12 @@
 # Sass Boilerplate
+<p align="center"><img src="https://github.com/antonboutkam/sass-boilerplate/blob/main/public_html/img/logo-rocva.
+png?raw=true"  alt="Logo ROC"/></p>
 
 Boilerplate code voor ROC software development studenten voor de mini cursus in LESS &amp; SASS
 
 
 # Default home page
-<p align="center"><img src="https://gitlab.com/NovumGit/innovation-app-core/-/raw/master/assets/novum.png"  alt="Novum logo"/></p>
+
 
 ## Summary
 This is a plugin written for the Novum Innovation app. It contains the default home page and is displayed whenever a user
