@@ -1,6 +1,5 @@
 # Sass Boilerplate
-<p align="center"><img src="https://github.com/antonboutkam/sass-boilerplate/blob/main/public_html/img/logo-rocva.
-png?raw=true"  alt="Logo ROC"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/antonboutkam/sass-boilerplate/refs/heads/main/public_html/img/logo-rocva.png"  alt="Logo ROC"/></p>
 
 Boilerplate code voor ROC software development studenten voor de mini cursus in LESS &amp; SASS
 
