@@ -12,7 +12,7 @@ sure to follow the course guidelines and refer to the documentation to get start
 
 ## Contents
  - public_html
-   - css
+   - css - *Your eventually generated stylesheet should end up here.*
    - img
  - src
    - styles.scss - *This is the file that needs to be altered in order for you to complete your assignment.*
