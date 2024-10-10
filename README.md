@@ -13,9 +13,8 @@ sure to follow the course guidelines and refer to the documentation to get start
 ## Contents
  - **public_html** - *Document root.*
    - **index.html** *An unstyled HTML document for you to turn into something amazing*
-   - css
-     - *style.css* - *This file should be generated automatically by you.* 
-   - img - *This directory contains some placeholder images, you may or may not replace them.*
+   - *css/style.css* - *This file should be generated automatically by you.* 
+   - img/* - *This directory contains some placeholder images, you may or may not replace them.*
    
  - src
    - **styles.scss** - *This is the file that needs to be altered in order for you to complete your assignment.*
