@@ -15,7 +15,7 @@ sure to follow the course guidelines and refer to the documentation to get start
    - css
    - img
  - src
-   - styles.scss - This is the file that needs to be altered in order for you to complete your assignment.
+   - styles.scss - *This is the file that needs to be altered in order for you to complete your assignment.*
 
 
 
