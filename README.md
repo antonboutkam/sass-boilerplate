@@ -11,9 +11,10 @@ encouraged to experiment with the SCSS files and compile them to CSS to better u
 sure to follow the course guidelines and refer to the documentation to get started with these resources effectively.
 
 ## Contents
- - public_html
+ - **public_html** - *Document root.*
    - css - *Your eventually generated stylesheet should end up here.*
    - img - *This directory contains some placeholder images, you may or may not replace them.*
+   - index.html *An unstyled HTML document for you to turn into something amazing*
  - src
    - styles.scss - *This is the file that needs to be altered in order for you to complete your assignment.*
 
