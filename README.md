@@ -16,8 +16,7 @@ sure to follow the course guidelines and refer to the documentation to get start
    - **css**/style.css* - *This file should be generated automatically by you.* 
    - **img**/* - *This directory contains some placeholder images, you may or may not replace them.*
    
- - src
-   - **styles.scss** - *This is the file that needs to be altered in order for you to complete your assignment.*
+ - **src**/styles.scss - *This is the file that needs to be altered in order for you to complete your assignment.*
 
 
 
