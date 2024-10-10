@@ -11,6 +11,11 @@ encouraged to experiment with the SCSS files and compile them to CSS to better u
 sure to follow the course guidelines and refer to the documentation to get started with these resources effectively.
 
 ## Contents
+ - public_html
+   - css
+   - img
+ - src
+
 
 
 ## More info
