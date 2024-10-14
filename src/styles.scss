@@ -1,8 +1,9 @@
 /**
 Dit is het SASS of scss bestand waarin jij jouw aanpassingen moet gaan doen.
-
 */
+$color: #18141d;
 
 body{
 
+    background-color: green($color: #681dbe);
 }
